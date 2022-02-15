@@ -5,3 +5,4 @@ Library Yandex:https://code.s3.yandex.net/web-code/libs/p5.js
 =======
 Library Yandex:https://code.s3.yandex.net/web-code/libs/p5.js
 >>>>>>> parent of 2530538... Merge remote-tracking branch 'origin/CrazyToy' into CrazyToy
+
