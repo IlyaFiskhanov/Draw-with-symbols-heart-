@@ -1,0 +1,45 @@
+
+@font-face {
+  src: url('https://fonts.googleapis.com/css2?family=Sue+Ellen+Francisco&display=swap');
+  font-family: 'Sue Ellen Francisco', cursive;
+}
+
+html, body {
+  -webkit-font-smoothing: antialiased;
+  height: auto;
+  margin: 0;
+}
+header {
+    margin-top: 10px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    flex-direction: column;
+    align-content: center;
+    align-items: self-start;
+    flex-wrap: revert;
+
+}
+button {
+    width: 77px;
+    height: 30PX;
+    border: 1px solid black;
+    outline: none;
+    transition: all .4s ease;
+    text-align: center;
+    font-family: "Sue Ellen Francisco";
+    font-size: 13px;
+    cursor: pointer;
+    color: white;
+    BORDER-RADIUS: 5PX;
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+button:hover {
+  opacity: 0.7;
+}
+
+
